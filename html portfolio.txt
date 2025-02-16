@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oumaima HAFIDI - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E6E6FA; /* Violet clair */
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            color: #6A5ACD;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Oumaima HAFIDI</h1>
+        <h2>Aspiring Marketing Data Analyst | Passionate about Education & Women Empowerment</h2>
+        <img src="DSC_5287.JPG" alt="Photo de Oumaima HAFIDI">
+        <h3>Bio</h3>
+        <a href="CV_2024-11-22_oumaima_hafidi_Maroc.pdf" target="_blank">Télécharger mon CV</a>
+        <h3>Portfolio</h3>
+        <a href="https://www.youtube.com/watch?v=H4DdZP5yIXM" target="_blank">Vidéo du projet d'équipe</a>
+        <a href="https://docs.google.com/presentation/d/1Hd0lhl7FtdbvFJlqm5u4NJLodpcq3VrA_S_qmTVHiNQY/edit?usp=sharing" target="_blank">Slides du projet</a>
+        <h3><a href="#">Elevator Pitch (à venir)</a></h3>
+    </div>
+</body>
+</html>
